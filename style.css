@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  
+}
+canvas {
+  display: block;
+  border: 5px solid rgb(0, 0, 0);
+  text-align: center;
+}
+
+.inputBox{
+  text-align: center;
+
+}
+
+
